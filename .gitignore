@@ -1,0 +1,9 @@
+# For C/C++
+*.exe
+*.out
+
+# For Java
+*.class
+
+# For Ada(You may add appropriate files to this list.)
+*.ali
